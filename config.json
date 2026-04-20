@@ -1,0 +1,15 @@
+{
+  "orders": {
+     "app_key": "132129",
+    "app_secret": "dO1mZ5qT2EEGVYo7tpLUezCh3TzMBuxI",
+    "access_token": "50000500331bkPracuTEVghIQvtTfCaf1lLsDWRgcFf17a56297Tes0WiK3uA9w",
+    "refresh_token": "50001501d31udZaccuCLWTcoGJnZjUU9k5mrSFws1Tq1b3e1ddbQW3DRhv0GNwZ"
+  },
+  "lazpay": {
+    "app_key": "132175",
+    "app_secret": "XATbxkPYKP1JJO4fmvhMj30kwZGqsvhJ",
+    "access_token": "50000500c18t4oFoxoU9byowdHREVu1e575a20hdjByfoTvgkFRJZgtWCHMjI2t",
+    "refresh_token": "50001500d189fGtworE81f2fiPBWSi1fcde380biiQCMvVejivoYHtvnfbYPIoc"
+  },
+  "refresh_interval": 300
+}
